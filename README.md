@@ -3,7 +3,7 @@
 * Torchtext has predefined methods to load CSV, TSV and JSON data. In this notebook there is a seperate class (inheriting `torchtext.data.Dataset`) which can be used to load data from a `Pandas DataFrame`. The class is a modification of the work of [lextoumbourou](https://gist.github.com/lextoumbourou/8f90313cbc3598ffbabeeaa1741a11c8) 
 
 
-####  The Data used here is from a Kaggle competetion Dataset : [Real or Not? NLP with Disaster Tweets](https://www.kaggle.com/c/nlp-getting-started) 
+####  The Data used here is from a Kaggle competition Dataset : [Real or Not? NLP with Disaster Tweets](https://www.kaggle.com/c/nlp-getting-started) 
 
 
 ## Preprocessing using Torchtext
